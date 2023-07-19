@@ -1,0 +1,56 @@
+2023-06-13 09:41:20,131 [Thread-台慶]: SSLEError processing City W Page 1: HTTPSConnectionPool(host='www.taiching.com.tw', port=443): Max retries exceeded with url: /region/Search/ (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1007)')))
+2023-06-13 10:45:28,277 [Thread-有巢氏房屋]: Error processing City X Page 1: <urlopen error EOF occurred in violation of protocol (_ssl.c:1007)>
+2023-06-13 10:47:54,327 [Thread-有巢氏房屋]: Error processing City X Page 1: <urlopen error EOF occurred in violation of protocol (_ssl.c:1007)>
+2023-06-15 09:36:15,194 [Thread-淘屋網]: Error processing City臺東縣 Page1: HTTPSConnectionPool(host='www.houseweb.com.tw', port=443): Max retries exceeded with url: /sale?p=1&SI=26&ST=1 (Caused by SSLError(SSLError(1, '[SSL: DH_KEY_TOO_SMALL] dh key too small (_ssl.c:1007)')))
+2023-06-15 15:42:08,494 [Thread-淘屋網]: Error processing City臺東縣 Page1: HTTPSConnectionPool(host='www.houseweb.com.tw', port=443): Max retries exceeded with url: /sale?p=1&SI=26&ST=1 (Caused by SSLError(SSLError(1, '[SSL: DH_KEY_TOO_SMALL] dh key too small (_ssl.c:1007)')))
+2023-06-21 17:56:00,196 [Thread-信義房屋]: Error processing City臺北市 Page51: HTTPSConnectionPool(host='www.sinyi.com.tw', port=443): Read timed out. (read timeout=30)
+2023-06-28 10:32:38,956 [Thread-房屋媽媽]: Error processing City W Page 1: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1131)>
+2023-06-28 10:41:50,755 [Thread-房屋媽媽]: Error processing City X Page 1: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1131)>
+2023-06-28 10:48:05,225 [Thread-台慶]: Error processing City W Page 1: table taiching_0628 has no column named re_price
+2023-06-28 10:48:07,233 [Thread-台慶]: Error processing City W Page 2: table taiching_0628 has no column named re_price
+2023-06-28 10:48:08,986 [Thread-台慶]: Error processing City W Page 3: table taiching_0628 has no column named re_price
+2023-06-28 10:48:10,766 [Thread-台慶]: Error processing City W Page 4: table taiching_0628 has no column named re_price
+2023-06-28 10:48:13,006 [Thread-台慶]: Error processing City W Page 5: table taiching_0628 has no column named re_price
+2023-06-28 16:50:36,846 [Thread-我家網]: Error processing City金門連江 Page1: 'str' object has no attribute 'text'
+2023-06-28 16:50:38,493 [Thread-我家網]: Error processing City金門連江 Page2: 'str' object has no attribute 'text'
+2023-06-28 16:50:40,220 [Thread-我家網]: Error processing City金門連江 Page3: 'str' object has no attribute 'text'
+2023-06-28 16:50:41,983 [Thread-我家網]: Error processing City金門連江 Page4: 'str' object has no attribute 'text'
+2023-06-28 17:01:44,122 [Thread-房屋媽媽]: Error processing City W Page 1: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1131)>
+2023-06-28 17:01:46,740 [Thread-房屋媽媽]: Error processing City X Page 1: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1131)>
+2023-06-28 17:12:28,414 [Thread-僑福房屋]: Error processing City W Page 1: 'NoneType' object has no attribute 'find'
+2023-06-28 17:12:32,147 [Thread-群義房屋]: Error processing City W Page 1: 'NoneType' object has no attribute 'find'
+2023-06-28 17:12:37,830 [Thread-群義房屋]: Error processing City X Page 1: 'NoneType' object has no attribute 'find'
+2023-06-28 17:16:13,995 [Thread-群義房屋]: Error processing City W Page 1: 'NoneType' object has no attribute 'text'
+2023-06-28 17:43:43,847 [Thread-愛屋線上]: Error processing City D Page 53: HTTPSConnectionPool(host='www.houseol.com.tw', port=443): Read timed out. (read timeout=10)
+2023-06-28 17:46:47,791 [Thread-愛屋線上]: Error processing City D Page 76: HTTPSConnectionPool(host='www.houseol.com.tw', port=443): Read timed out. (read timeout=10)
+2023-06-28 17:53:03,680 [Thread-愛屋線上]: Error processing City D Page 134: HTTPSConnectionPool(host='www.houseol.com.tw', port=443): Read timed out. (read timeout=10)
+2023-06-28 18:03:18,599 [Thread-愛屋線上]: Error processing City D Page 226: HTTPSConnectionPool(host='www.houseol.com.tw', port=443): Read timed out. (read timeout=10)
+2023-06-28 18:50:04,278 [Thread-愛屋線上]: Error processing City D Page 683: HTTPSConnectionPool(host='www.houseol.com.tw', port=443): Read timed out. (read timeout=10)
+2023-06-28 19:12:34,010 [Thread-愛屋線上]: Error processing City D Page 898: HTTPSConnectionPool(host='www.houseol.com.tw', port=443): Read timed out. (read timeout=10)
+2023-06-28 19:20:11,555 [Thread-愛屋線上]: Error processing City D Page 972: HTTPSConnectionPool(host='www.houseol.com.tw', port=443): Read timed out. (read timeout=10)
+2023-06-28 19:20:23,868 [Thread-愛屋線上]: Error processing City D Page 973: HTTPSConnectionPool(host='www.houseol.com.tw', port=443): Read timed out. (read timeout=10)
+2023-06-28 19:25:17,710 [Thread-愛屋線上]: Error processing City D Page 1021: HTTPSConnectionPool(host='www.houseol.com.tw', port=443): Read timed out. (read timeout=10)
+2023-06-28 19:29:34,850 [Thread-愛屋線上]: Error processing City D Page 1059: HTTPSConnectionPool(host='www.houseol.com.tw', port=443): Read timed out. (read timeout=10)
+2023-06-28 19:30:08,759 [Thread-愛屋線上]: Error processing City D Page 1062: HTTPSConnectionPool(host='www.houseol.com.tw', port=443): Read timed out. (read timeout=10)
+2023-06-28 19:36:10,706 [Thread-愛屋線上]: Error processing City D Page 1113: HTTPSConnectionPool(host='www.houseol.com.tw', port=443): Read timed out. (read timeout=10)
+2023-06-28 19:37:28,209 [Thread-愛屋線上]: Error processing City D Page 1125: HTTPSConnectionPool(host='www.houseol.com.tw', port=443): Read timed out. (read timeout=10)
+2023-06-28 19:38:11,105 [Thread-愛屋線上]: Error processing City D Page 1131: HTTPSConnectionPool(host='www.houseol.com.tw', port=443): Read timed out. (read timeout=10)
+2023-06-28 19:38:25,353 [Thread-愛屋線上]: Error processing City D Page 1132: HTTPSConnectionPool(host='www.houseol.com.tw', port=443): Read timed out. (read timeout=10)
+2023-06-28 19:49:52,899 [Thread-愛屋線上]: Error processing City D Page 1236: HTTPSConnectionPool(host='www.houseol.com.tw', port=443): Read timed out. (read timeout=10)
+2023-06-28 19:50:04,088 [Thread-愛屋線上]: Error processing City D Page 1237: HTTPSConnectionPool(host='www.houseol.com.tw', port=443): Read timed out. (read timeout=10)
+2023-06-28 19:52:22,939 [Thread-愛屋線上]: Error processing City D Page 1257: HTTPSConnectionPool(host='www.houseol.com.tw', port=443): Read timed out. (read timeout=10)
+2023-06-28 19:52:34,807 [Thread-愛屋線上]: Error processing City D Page 1258: HTTPSConnectionPool(host='www.houseol.com.tw', port=443): Read timed out. (read timeout=10)
+2023-06-28 19:54:10,679 [Thread-愛屋線上]: Error processing City D Page 1271: HTTPSConnectionPool(host='www.houseol.com.tw', port=443): Read timed out. (read timeout=10)
+2023-06-28 19:54:38,204 [Thread-愛屋線上]: Error processing City D Page 1274: HTTPSConnectionPool(host='www.houseol.com.tw', port=443): Read timed out. (read timeout=10)
+2023-06-28 19:54:52,660 [Thread-愛屋線上]: Error processing City D Page 1275: HTTPSConnectionPool(host='www.houseol.com.tw', port=443): Read timed out. (read timeout=10)
+2023-06-28 19:57:37,589 [Thread-愛屋線上]: Error processing City D Page 1295: HTTPSConnectionPool(host='www.houseol.com.tw', port=443): Read timed out. (read timeout=10)
+2023-06-28 19:58:13,961 [Thread-愛屋線上]: Error processing City D Page 1299: HTTPSConnectionPool(host='www.houseol.com.tw', port=443): Read timed out. (read timeout=10)
+2023-06-28 19:58:48,985 [Thread-愛屋線上]: Error processing City D Page 1303: HTTPSConnectionPool(host='www.houseol.com.tw', port=443): Read timed out. (read timeout=10)
+2023-06-28 20:01:01,314 [Thread-愛屋線上]: Error processing City D Page 1316: HTTPSConnectionPool(host='www.houseol.com.tw', port=443): Read timed out. (read timeout=10)
+2023-06-28 20:04:47,270 [Thread-愛屋線上]: Error processing City D Page 1345: HTTPSConnectionPool(host='www.houseol.com.tw', port=443): Read timed out. (read timeout=10)
+2023-06-28 20:08:48,325 [Thread-愛屋線上]: Error processing City D Page 1378: HTTPSConnectionPool(host='www.houseol.com.tw', port=443): Read timed out. (read timeout=10)
+2023-06-28 20:09:02,244 [Thread-愛屋線上]: Error processing City D Page 1379: HTTPSConnectionPool(host='www.houseol.com.tw', port=443): Read timed out. (read timeout=10)
+2023-06-29 14:29:23,592 [Thread-東森房屋]: Error processing City M Page 1: '格局'
+2023-06-29 14:31:38,003 [Thread-東森房屋]: Error processing City M Page 1: '格局'
+2023-06-29 15:24:41,634 [Thread-大埔里房仲網]: 資料格式混亂Error processing City M Page 293 Link http://www.0492424550.idv.tw/info_show.php?object_id=355&house_type=&build_type=&area_id=1: list index out of range
+2023-06-30 10:08:03,718 [Thread-永慶房屋]: Error processing Source 永慶房屋 City W Page 1: could not convert string to float: '2,280'
