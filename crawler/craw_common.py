@@ -39,7 +39,7 @@ all_city_dict = {
             }
 # 取得代理IP
 def get_proxies():
-    url = "https://bard.yeshome.net.tw/proxy/proxy_ip_v3/"
+    url = "XXXX"
     data = {
         'twip': True,
         'tag_data': 'usezone'
@@ -91,7 +91,7 @@ def data2sql(data_list, city_code):
 def conn2pymysql():
     # 連接資料庫
     db_user = 'rita'
-    db_password = 'y5416h7553'
+    db_password = 'XXXX'
     db_host = '192.168.1.15'
     db_name = 'housecase'
     conn = pymysql.connect(host=db_host, port=3306, db=db_name, user=db_user, password=db_password)
